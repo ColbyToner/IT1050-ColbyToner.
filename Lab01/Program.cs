@@ -13,7 +13,7 @@ namespace Lab01
             Console.WriteLine("Hello, World");
             string Greeting = "Hello, World";
             string Name = "Colby Toner";
-            Console.WriteLine({Gretting} + " " + {Name});
+            Console.WriteLine(Gretting + " " + Name);
         }
     }
 }
