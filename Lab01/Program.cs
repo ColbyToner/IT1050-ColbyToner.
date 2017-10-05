@@ -11,6 +11,9 @@ namespace Lab01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World");
+            string Greeting = "Hello, World";
+            string Name = "Colby Toner";
+            Console.WriteLine(Gretting + " " + Name);
         }
     }
 }
