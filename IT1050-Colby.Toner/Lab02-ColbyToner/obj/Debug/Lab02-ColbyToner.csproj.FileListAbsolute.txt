@@ -1,0 +1,7 @@
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\bin\Debug\Lab02-ColbyToner.exe.config
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\bin\Debug\Lab02-ColbyToner.exe
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\bin\Debug\Lab02-ColbyToner.pdb
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\obj\Debug\Lab02-ColbyToner.csprojResolveAssemblyReference.cache
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\obj\Debug\Lab02-ColbyToner.csproj.CoreCompileInputs.cache
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\obj\Debug\Lab02-ColbyToner.exe
+C:\Users\colby\source\repos\Lab02-ColbyToner\Lab02-ColbyToner\obj\Debug\Lab02-ColbyToner.pdb
